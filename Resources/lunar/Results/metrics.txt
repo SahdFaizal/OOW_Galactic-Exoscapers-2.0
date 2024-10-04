@@ -1,0 +1,4 @@
+Testing Mean Absolute Error: 5964.555848214285
+Testing R² Score: 0.8954848769507202
+Training Mean Absolute Error: 3773.0826829004295
+Training R² Score: 0.9197559500564988

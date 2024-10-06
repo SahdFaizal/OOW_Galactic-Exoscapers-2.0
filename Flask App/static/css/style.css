@@ -72,7 +72,11 @@ input[type="file"] {
 .file-name {
     margin-top: 10px;
     font-weight: bold;
-    color: #BF360C; /* Stronger color for file name */
+    color: grey; /* Default color for no file chosen */
+}
+
+.file-name.highlight {
+    color: red; /* Color when a file is chosen */
 }
 
 .radio-group {
